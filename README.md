@@ -46,8 +46,6 @@
             src="https://github-profile-trophy.vercel.app/?username=oskarmast&theme=matrix&margin-h=15&column=4&margin-w=10" alt="oskarmast" /></a>
 </p>
 
-[![An image of @oskarmast's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oskarmast)](https://holopin.io/@oskarmast)
-
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=oskarmast&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
