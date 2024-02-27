@@ -1,5 +1,5 @@
 <h1 align="center"> I am Oskar Mast </h1>
-<h3 align="center"> Senior Frontend Developer </h3>
+<h2 align="center"> Senior Frontend Developer </h2>
 
 - 🔭 I’m currently working on MERN stack, Laravel, Codeigniter and Wordpress
 - 🌱 I’m currently learning Python, Flutter and React Native
