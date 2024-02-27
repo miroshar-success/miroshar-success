@@ -1,4 +1,4 @@
-<h1 align="center"> I am Oskar Mast </h1>
+<h1 align="center">👋 I am Oskar Mast </h1>
 <h2 align="center"> Senior Frontend Developer </h2>
 
 - 🔭 I’m currently working on MERN stack, Laravel, Codeigniter and Wordpress
