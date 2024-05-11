@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on MERN stack, Laravel, Codeigniter and Wordpress
-- 🌱 I’m currently learning Python, Flutter and React Native
-- 👯 I’m looking to collaborate on Web development
+- 🔭 I’m currently working on MERN stack, Next.js, Laravel, Codeigniter and Wordpress
+- 🌱 I’m currently learning Python, Flutter and React Native for Android and IOS
+- 👯 I’m looking to collaborate on Web development, App development, and Desktop application
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React.js, Typescript
 - 😄 Pronouns: DANCER
