@@ -5,7 +5,7 @@
 - 💬 Ask me about React.js, Typescript
 - 😄 Pronouns: DANCER
 - ⚡ Fun fact: I am keen on climbing mountain.
-
+https://drive.google.com/file/d/1r3cQs0ooHsC0l2jjwVv7n_sb22juH7pU/view?usp=drive_link
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
     <a href="mailto:oskarmast9436@gmail.com" target="blank"><img align="center"
