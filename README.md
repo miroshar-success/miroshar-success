@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on MERN stack, Next.js, Laravel, Codeigniter and Wordpress as a Web developer
-- 🌱 I’m currently working on Flutter, React Native, Swift, Kotlin and Java for Android and IOS as a Android developer
-- 🌱 I’m currently working on C++, C# and Python as a Desktop application developer
+- 🔭 I’m currently working on MERN stack, Next.js, Laravel, Codeigniter and Wordpress as a **Web developer**
+- 🌱 I’m currently working on Flutter, React Native, Swift, Kotlin and Java for Android and IOS as a **Android developer**
+- 🌱 I’m currently working on C++, C# and Python as a **Desktop application developer**
 - 👯 I’m looking to collaborate on Web development, App development, and Desktop application
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React.js, Typescript, Flutter, React Native, C++, C#, and Python
