@@ -1,13 +1,19 @@
+<<<<<<< HEAD
 <h3 align="center" color=red> Senior Full Stack Developer </h3>
 
 - 🔭 I’m currently working on MERN stack, Laravel, Codeigniter and Wordpress
 - 🌱 I’m currently learning Python, Flutter and React Native
 - 👯 I’m looking to collaborate on Web development
+=======
+- 🔭 I’m currently working on MERN stack, Next.js, Laravel, Codeigniter and Wordpress as a **Web developer**
+- 🌱 I’m currently working on Flutter, React Native, Swift, Kotlin and Java for Android and IOS as a **Android developer**
+- 🌱 I’m currently working on C++, C# and Python as a **Desktop application developer**
+- 👯 I’m looking to collaborate on Web development, App development, and Desktop application
+>>>>>>> 632bf3b3c140dd6c38b9fb27325957468dbf4174
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about React.js, Typescript
+- 💬 Ask me about React.js, Typescript, Flutter, React Native, C++, C#, and Python
 - 😄 Pronouns: DANCER
 - ⚡ Fun fact: I am keen on climbing mountain.
-
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
     <a href="mailto:oskarmast9436@gmail.com" target="blank"><img align="center"
@@ -35,6 +41,9 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-F05032?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-47A248?style=for-the-badge&logo=swift&logoColor=white"/>
 </div>
 
 </p>
