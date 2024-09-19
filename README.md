@@ -1,15 +1,8 @@
-<<<<<<< HEAD
 <h3 align="center" color=red> Senior Full Stack Developer </h3>
 
 - 🔭 I’m currently working on MERN stack, Laravel, Codeigniter and Wordpress
 - 🌱 I’m currently learning Python, Flutter and React Native
 - 👯 I’m looking to collaborate on Web development
-=======
-- 🔭 I’m currently working on MERN stack, Next.js, Laravel, Codeigniter and Wordpress as a **Web developer**
-- 🌱 I’m currently working on Flutter, React Native, Swift, Kotlin and Java for Android and IOS as a **Android developer**
-- 🌱 I’m currently working on C++, C# and Python as a **Desktop application developer**
-- 👯 I’m looking to collaborate on Web development, App development, and Desktop application
->>>>>>> 632bf3b3c140dd6c38b9fb27325957468dbf4174
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about React.js, Typescript, Flutter, React Native, C++, C#, and Python
 - 😄 Pronouns: DANCER
