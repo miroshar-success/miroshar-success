@@ -44,12 +44,12 @@
 
 <p align="center"  >
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=oskarmast&theme=matrix&margin-h=15&column=4&margin-w=10" alt="oskarmast" /></a>
+            src="https://github-profile-trophy.vercel.app/?username=miroshar-success&theme=matrix&margin-h=15&column=4&margin-w=10" alt="oskarmast" /></a>
 </p>
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=oskarmast&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oskarmast&theme=blue-green" alt="pratikgarai" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=miroshar-success&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miroshar-success&theme=blue-green" alt="pratikgarai" /></td>
    </tr>
 </table>
