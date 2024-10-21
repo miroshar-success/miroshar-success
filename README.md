@@ -1,10 +1,9 @@
 <h3 align="center" color=red> Senior Full Stack Developer </h3>
 
-- 🔭 I’m currently working on MERN stack, Laravel, Codeigniter and Wordpress
-- 🌱 I’m currently learning Python, Flutter and React Native
-- 👯 I’m looking to collaborate on Web development
+- 🔭 I’m currently working on MERN stack, Laravel, Codeigniter and Wordpress.
+- 👯 I’m looking to collaborate on Web development and mobile application development
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about React.js, Typescript, Flutter, React Native, C++, C#, and Python
+- 💬 Ask me about php, React.js, Typescript, Flutter, React Native, C++, C#, and Python
 - 😄 Pronouns: DANCER
 - ⚡ Fun fact: I am keen on climbing mountain.
 <h3 align="left"> Connect with me: </h3>
