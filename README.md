@@ -6,16 +6,6 @@
 - 💬 Ask me about php, React.js, Typescript, Flutter, React Native, C++, C#, and Python
 - 😄 Pronouns: DANCER
 - ⚡ Fun fact: I am keen on climbing mountain.
-<h3 align="left"> Connect with me: </h3>
-<p align="left">
-    <a href="mailto:oskarmast9436@gmail.com" target="blank"><img align="center"
-            src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="OskarMast#8877" height="30"
-            width="40" /></a>
-    <a href="https://t.me/devking9436" target="blank"><img align="center"
-            src="https://cdn-icons-png.flaticon.com/128/3536/3536661.png" alt="OskarMast#8877" height="40"
-            width="40" /></a>
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
